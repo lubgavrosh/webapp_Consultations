@@ -1,0 +1,8 @@
+.tools/
+ODDANIE/
+K1_Overleaf.zip
+_build_*
+*.log
+*.aux
+*.toc
+*.out

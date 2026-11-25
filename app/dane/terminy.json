@@ -1,0 +1,6 @@
+[
+  {"id":1,"prowadzacy":"dr Anna Nowak","data":"2026-11-30","godzina":"10:00–10:30","sala":"sala 214","limit":5,"zapisani":3},
+  {"id":2,"prowadzacy":"mgr Piotr Lis","data":"2026-12-01","godzina":"12:30–13:00","sala":"sala 105","limit":4,"zapisani":1},
+  {"id":3,"prowadzacy":"dr Anna Nowak","data":"2026-12-02","godzina":"14:00–14:30","sala":"sala 214","limit":3,"zapisani":3},
+  {"id":4,"prowadzacy":"mgr inż. Aleksandra Olszyńska","data":"2026-12-03","godzina":"09:00–09:30","sala":"sala 312","limit":6,"zapisani":2}
+]
