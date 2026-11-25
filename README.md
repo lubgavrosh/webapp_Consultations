@@ -27,6 +27,10 @@ Wymagania: przeglądarka (Chrome, Firefox lub Edge) oraz Python 3 do lokalnego s
 git clone <adres repozytorium>
 cd <folder repozytorium>/app
 python -m http.server 8000
+
+2 opcja
+cd D:\webapp_Consultations\app
+py -3.13 -m http.server 8000
 ```
 
 Następnie otwórz http://localhost:8000. (Aplikacja wczytuje plik JSON, więc nie działa po otwarciu `index.html` bezpośrednio z dysku.)
